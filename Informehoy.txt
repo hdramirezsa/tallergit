@@ -1,3 +1,7 @@
 En el dia de hoy los temas tratados son:
 
 Que es un sistema de control de versiones.
+
+Ramas
+
+Como ignorar archivos para no ser comprometidos por el area de trabajo.
